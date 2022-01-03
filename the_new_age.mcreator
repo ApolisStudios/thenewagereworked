@@ -1,0 +1,67 @@
+{
+  "mod_elements": [
+    {
+      "name": "Thenewage",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thenewage"
+    },
+    {
+      "name": "Neodrite",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neodrite"
+    },
+    {
+      "name": "Neodriteingot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neodriteingot"
+    },
+    {
+      "name": "Neodriteingotrecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neodriteingotrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.the_new_age.neodrite": "Neodrite",
+      "itemGroup.tabthenewage": "The new age",
+      "item.the_new_age.neodriteingot": "Neodriteingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "the_new_age",
+    "modName": "The New Age",
+    "version": "1.0.0",
+    "author": "apoli, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.thenewage",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_new_age:blocks/neodrite_texture",
+    "up": "the_new_age:blocks/neodrite_texture",
+    "north": "the_new_age:blocks/neodrite_texture",
+    "east": "the_new_age:blocks/neodrite_texture",
+    "south": "the_new_age:blocks/neodrite_texture",
+    "west": "the_new_age:blocks/neodrite_texture",
+    "particle": "the_new_age:blocks/neodrite_texture"
+  }
+}
